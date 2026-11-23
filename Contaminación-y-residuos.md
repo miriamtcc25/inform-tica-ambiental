@@ -6,6 +6,7 @@ La fabricación de dispositivos electrónicos necesita materias primas, energía
 
 En este trabajo analizaremos qué es la contaminación ambiental, cómo se relaciona con la informática, qué residuos generan los dispositivos tecnológicos y qué podemos hacer para reducir su impacto.
 
+
 2. ¿Qué es la contaminación ambiental?
 La contaminación ambiental es la introducción de sustancias o elementos perjudiciales en el medioambiente que alteran su equilibrio natural y pueden afectar a los seres vivos. Puede producirse por actividades humanas como la industria, el transporte, la fabricación de productos y la acumulación de residuos.
 
