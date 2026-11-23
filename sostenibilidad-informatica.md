@@ -30,3 +30,5 @@ La obsolescencia puede provocar que se compren dispositivos nuevos con mayor fre
 También supone un gasto económico para los consumidores, ya que tienen que sustituir equipos que, en algunos casos, podrían continuar utilizándose si fueran reparables o recibieran soporte adecuado.
 
 Por este motivo, es importante apostar por dispositivos duraderos, reparables y que permitan actualizar sus componentes y software durante más tiempo.
+
+![Obsolescencia tecnológica](imagen1.jpg)
