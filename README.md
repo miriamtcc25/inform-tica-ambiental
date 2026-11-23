@@ -1,4 +1,3 @@
-
 # 🌍 Informática y medioambiente
 
 ## Protección medioambiental en el ámbito de la informática
@@ -10,7 +9,7 @@ Este proyecto colaborativo trata sobre el impacto medioambiental de la informát
 - [Introducción](#introducción)
 - [Contaminación ambiental y residuos informáticos](Contaminación-y-residuos.md)
 - [Obsolescencia programada e informática ecológica](sostenibilidad-informatica.md)
-- [Conclusión](sostenibilidad-informatica.md#9-conclusión)
+- [Conclusión](sostenibilidad-informatica.md#conclusión)
 - [Referencias](#referencias)
 - [Autores](#autores)
 
@@ -22,12 +21,13 @@ Este proyecto colaborativo trata sobre el impacto medioambiental de la informát
 - Conocer la informática ecológica o Green IT.
 - Proponer medidas para conseguir una informática más sostenible.
 
-## 📚 Referencias generales
+## 📚 Referencias
 
 - [Global E-waste Monitor](https://ewastemonitor.info/)
 - [Programa de las Naciones Unidas para el Medio Ambiente](https://www.unep.org/es)
 
 ## 👥 Autores
 
--María Jesús Gómez Vega
--Miriam Toro Cuevas
+- María Jesús Gómez Vega
+- Miriam Toro Cuevas
+
