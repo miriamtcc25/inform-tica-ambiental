@@ -65,4 +65,4 @@ La informática ecológica se puede aplicar tanto en casa como en empresas:
 La aplicación de medidas de Green IT ayuda a reducir el consumo energético y los residuos tecnológicos. También puede suponer un ahorro económico, mejorar la eficiencia de las empresas y fomentar un uso más responsable de la tecnología.
 
 La informática ecológica demuestra que el desarrollo tecnológico y la protección del medioambiente pueden avanzar conjuntamente.
-![Informática ecológica](images 4sostenibilidad.jpeg)
+![Informática ecológica](images4sostenibilidad.jpeg)
