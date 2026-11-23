@@ -69,3 +69,5 @@ Las baterías de portátiles, móviles y otros dispositivos deben recogerse de f
 
 4.5. Pantallas y monitores
 Los monitores, televisores y pantallas antiguas contienen diferentes materiales y componentes que requieren un tratamiento específico para evitar que sus residuos se gestionen de manera inadecuada.
+
+![Residuos electrónicos](
