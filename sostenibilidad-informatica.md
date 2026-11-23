@@ -31,4 +31,4 @@ También supone un gasto económico para los consumidores, ya que tienen que sus
 
 Por este motivo, es importante apostar por dispositivos duraderos, reparables y que permitan actualizar sus componentes y software durante más tiempo.
 
-![Obsolescencia tecnológica](imagen1.jpg)
+![Obsolescencia tecnológica](images3ordenadores.jpeg)
