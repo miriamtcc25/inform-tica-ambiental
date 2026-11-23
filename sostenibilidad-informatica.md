@@ -66,5 +66,45 @@ La aplicación de medidas de Green IT ayuda a reducir el consumo energético y l
 
 La informática ecológica demuestra que el desarrollo tecnológico y la protección del medioambiente pueden avanzar conjuntamente.
 ![Informática ecológica](imagen4.jpg)
+## 7. Medidas para conseguir una informática sostenible
 
+Todos podemos contribuir a reducir el impacto ambiental de la informática mediante pequeños cambios en nuestros hábitos y en la forma de utilizar los dispositivos.
 
+### 7.1. En casa
+
+- Apagar el ordenador y los dispositivos cuando no se estén utilizando.
+- Evitar dejar equipos encendidos innecesariamente.
+- Utilizar las opciones de ahorro energético.
+- Cuidar los dispositivos para evitar averías.
+- Reparar los equipos antes de comprar otros nuevos.
+- Llevar los residuos electrónicos a puntos de recogida adecuados.
+
+### 7.2. En empresas y centros educativos
+
+- Comprar equipos eficientes, duraderos y reparables.
+- Aprovechar los ordenadores antiguos para tareas menos exigentes.
+- Utilizar impresoras de forma responsable y reducir el consumo de papel.
+- Configurar los equipos para ahorrar energía.
+- Realizar un mantenimiento periódico de los dispositivos.
+- Gestionar correctamente los residuos electrónicos.
+
+### 7.3. Consumo responsable de tecnología
+
+Antes de comprar un dispositivo nuevo, es recomendable valorar si realmente lo necesitamos, comprobar si el equipo actual puede repararse y comparar la durabilidad, el consumo energético y las posibilidades de actualización de los diferentes productos.
+
+De esta manera, podemos reducir el consumo innecesario, ahorrar dinero y contribuir a un modelo tecnológico más sostenible.
+## 8. Conclusión
+
+A lo largo de este proyecto hemos aprendido que la informática, aunque es fundamental en nuestra vida diaria, también tiene un impacto sobre el medioambiente. La fabricación de dispositivos, el consumo de energía y la generación de residuos electrónicos son algunos de los problemas relacionados con el uso de la tecnología.
+
+También hemos conocido la importancia de evitar la obsolescencia prematura y de apostar por una informática más ecológica. Reparar, reutilizar, reciclar y utilizar los dispositivos de forma responsable son acciones que pueden ayudar a reducir este impacto.
+
+En nuestra opinión, no se trata de dejar de utilizar la tecnología, sino de aprender a utilizarla de una manera más consciente y sostenible. La informática puede seguir avanzando sin olvidar la importancia de proteger el medioambiente.
+## 9. Referencias y fuentes de información
+
+- [Reglamento europeo sobre diseño ecológico de productos sostenibles](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX:32024R1781) — Información sobre durabilidad, reparabilidad, eficiencia energética y diseño sostenible.
+- [Directiva europea sobre reparación de bienes](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024L1799) — Medidas para promover la reparación de productos.
+- [Directiva europea sobre prácticas comerciales desleales y transición ecológica](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX:32024L0825) — Información relacionada con la obsolescencia temprana y la sostenibilidad.
+- [Global E-waste Monitor](https://ewastemonitor.info/) — Información sobre residuos electrónicos y su impacto.
+
+Los contenidos se han elaborado a partir de estas fuentes, utilizando la información consultada para redactar las explicaciones con nuestras propias palabras.
