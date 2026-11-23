@@ -71,3 +71,34 @@ Las baterías de portátiles, móviles y otros dispositivos deben recogerse de f
 Los monitores, televisores y pantallas antiguas contienen diferentes materiales y componentes que requieren un tratamiento específico para evitar que sus residuos se gestionen de manera inadecuada.
 
 ![Residuos electrónicos](Residuos.jpg)
+
+5. Gestión y reciclaje de los residuos informáticos
+Los residuos informáticos no deben tirarse a la basura normal, ya que necesitan una gestión específica. Una correcta gestión permite recuperar materiales, reducir la contaminación y aprovechar algunos dispositivos o componentes que todavía pueden tener utilidad.
+
+Las principales medidas son:
+
+Reparación
+Si un dispositivo tiene una avería, se puede intentar reparar antes de sustituirlo. De esta forma se alarga su vida útil y se evita generar nuevos residuos.
+
+Reutilización
+Los equipos que todavía funcionan pueden utilizarse de nuevo, donarse o destinarse a otras tareas que no necesiten tanta potencia.
+
+Reciclaje
+Cuando un aparato ya no puede utilizarse, debe llevarse a un punto de recogida adecuado para que sus componentes y materiales puedan separarse y tratarse correctamente.
+
+Puntos limpios
+Los puntos limpios permiten entregar determinados aparatos electrónicos para que sean gestionados de forma adecuada. También existen establecimientos y sistemas de recogida específicos para algunos dispositivos.
+
+Consumo responsable
+Es importante comprar solamente los dispositivos que necesitamos, cuidar los que tenemos y evitar sustituirlos innecesariamente. Antes de comprar un equipo nuevo, podemos valorar si el anterior todavía puede repararse o seguir utilizándose.
+
+Para elaborar estos apartados hemos consultado fuentes informativas y organismos relacionados con el medioambiente y la gestión de residuos:
+
+Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) — Información sobre contaminación y gestión de residuos.
+
+Contaminación por residuos – PNUMA — Información sobre la contaminación causada por los residuos y posibles soluciones.
+
+Global E-waste Monitor — Informes y datos sobre residuos electrónicos a nivel mundial.
+
+Las fuentes se han utilizado para investigar y elaborar la información de este trabajo, redactando los contenidos con nuestras propias palabras.
+
